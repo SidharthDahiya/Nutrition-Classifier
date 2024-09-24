@@ -40,7 +40,6 @@ This project utilizes the following tools and libraries:
 - Python
 - Pandas
 - Scikit-learn
-- Flask
   
 ## Next Steps
 In future iterations of this project, we plan to integrate user-specific data such as weight, height, BMI, etc., to provide more precise dietary recommendations. By incorporating these personal metrics along with nutritional values, the system can suggest meal plans that meet specific dietary requirements or health goals.
